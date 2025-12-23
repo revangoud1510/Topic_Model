@@ -2,7 +2,7 @@
 
 This project aims to extract and analyze topics from Eenadu news articles using Natural Language Processing (NLP) techniques. The pipeline includes web scraping, preprocessing, topic modeling, and result visualization.
 
-## How to Run from scratch
+## How to Run from scratch 
 
 1. Open Google Colab:  
    Visit [Google Colab](https://colab.research.google.com/).  
@@ -67,4 +67,5 @@ This project aims to extract and analyze topics from Eenadu news articles using 
     -   **Importance**:
         -   Prepares the text for LDA by highlighting important words while filtering out less relevant ones.
         -   Reduces noise in the data, improving the quality of the topic modeling.
+
 
